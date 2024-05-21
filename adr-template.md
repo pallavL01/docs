@@ -1,6 +1,3 @@
-Certainly! Here is a template for an Architectural Decision Record (ADR) in Markdown format:
-
-```markdown
 # [short title of solved problem and solution]
 
 * Status: [proposed | rejected | accepted | deprecated | superseded by [ADR-0005](0005-example.md)] <!-- optional -->
@@ -66,6 +63,3 @@ Chosen option: "[option 1]", because [justification. e.g., only option, which me
 
 * [Link type] [Link to ADR] <!-- example: Refined by [ADR-0005](0005-example.md) -->
 * ... <!-- numbers of links can vary -->
-```
-
-This template includes sections for context, decision drivers, considered options, decision outcomes, pros and cons of the options, and links to related ADRs. You can customize each section as needed to fit your specific use case.
